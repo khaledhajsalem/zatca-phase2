@@ -1,6 +1,6 @@
 # ZATCA Phase 2 Integration for Node.js
 
-A comprehensive library for integrating with the ZATCA (Zakat, Tax and Customs Authority) Phase 2 e-invoicing system in Saudi Arabia.
+A comprehensive Node.js library for integrating with the ZATCA (Zakat, Tax and Customs Authority) Phase 2 e-invoicing system in Saudi Arabia, providing robust and efficient backend support for e-invoicing operations.
 
 ## Features
 
