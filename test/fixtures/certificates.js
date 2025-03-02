@@ -7,9 +7,9 @@
  * Sample certificate information
  */
 exports.sampleCertificateInfo = {
-    certificateId: 'test-cert-123',
-    type: 'compliance',
-    token: 'test-auth-token-123'
+  certificateId: 'test-cert-123',
+  type: 'compliance',
+  token: 'test-auth-token-123'
 };
 
 /**
@@ -96,8 +96,8 @@ X9TcQXvN
  * Sample organization info for CSR generation
  */
 exports.sampleOrganization = {
-    name: 'Test Company',
-    city: 'Test City',
-    region: 'Test Region',
-    email: 'test@example.com'
+  name: 'Test Company',
+  city: 'Test City',
+  region: 'Test Region',
+  email: 'test@example.com'
 };

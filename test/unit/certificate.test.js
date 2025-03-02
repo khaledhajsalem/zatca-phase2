@@ -11,7 +11,6 @@ const store = require('../../lib/certificate/store');
 
 describe('Certificate Module', () => {
   let fsStub;
-  let forgeStub;
   let storeCertificateStub;
   let configStub;
 
